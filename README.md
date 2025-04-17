@@ -186,9 +186,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Indian Legal Text dataset from Hugging Face
 - LED model from AllenAI
 - BERT tokenizer and model from Google Research
-
-## Contact
-
-[Your Name] - [Your Email]
-
-Project Link: [https://github.com/yourusername/legal-text-summarization](https://github.com/yourusername/legal-text-summarization) 
